@@ -1,5 +1,5 @@
-#CUDA Implementation of ANN
-#COL730 Assignment 1
+# CUDA Implementation of ANN
+# COL730 Assignment 1
 
 **Using the Parallel Code**
 The fann_master folder contains the following along with other neccessary contents:
